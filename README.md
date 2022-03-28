@@ -1,2 +1,2 @@
 # CSS-Site-two
-Freecodecamp basic portfolio site
+Freecodecamp basic portfolio practice site
